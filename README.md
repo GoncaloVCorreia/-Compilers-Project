@@ -2,7 +2,7 @@
 
 Compiler to deiGO language
 
-##Run
+## Run
 
 lex gocompiler.l
 
